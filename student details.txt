@@ -1,0 +1,5 @@
+student name :Dammu Jashwanth
+course : BSC-computer science
+suc : 2342230050
+roll no : 19
+marks : 7.7
